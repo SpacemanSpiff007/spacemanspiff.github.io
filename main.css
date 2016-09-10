@@ -8,6 +8,10 @@ body {
     width: 100%;
 }
 
+.navbar {
+    position: fixed;
+}
+
 .primary-color {
     background-color: #3E50B4;
 }
@@ -47,4 +51,11 @@ body {
 .dark-background .hidden-text {
     color: #FFF;
     opacity: 50%;
+}
+
+.white-text {
+    color: #FFF;   
+}
+.black-text {
+    color: #000;
 }
