@@ -1,3 +1,2 @@
 # spacemanspiff.github.io
-# spacemanspiff.github.io
-# spacemanspiff.github.io
+A little website to help me explore the universe...
